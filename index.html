@@ -11,7 +11,7 @@
   <meta property="og:image" content="assets/og-omnicamera.png">
   <meta name="twitter:card" content="summary_large_image">
   <title>OmniCamera — Unified Video Generation with Arbitrary Camera Control</title>
-  <link rel="stylesheet" href="styles.css?v=20260829k">
+  <link rel="stylesheet" href="styles.css?v=20260829l">
   <script src="app.js?v=20260829k" defer></script>
 </head>
 <body>
@@ -161,8 +161,8 @@
 
       <div class="stat-grid" aria-label="Key project statistics">
         <article><strong>3 × 3</strong><span>control combinations</span></article>
-        <article><strong>830K</strong><span>synthetic + real videos</span></article>
-        <article><strong>50</strong><span>camera-motion types</span></article>
+        <article><strong>830K</strong><span>500K synthetic + 330K real videos</span></article>
+        <article><strong>50</strong><span>predefined motion types</span></article>
         <article><strong>5B</strong><span>parameter backbone</span></article>
       </div>
     </section>
@@ -210,8 +210,8 @@
         <div class="feature-copy">
           <span class="number">01</span>
           <p class="kicker">Unified architecture</p>
-          <h3>Decoupled condition injection</h3>
-          <p>Camera and content conditions enter the transformer through separate paths, reducing interference between what appears and how the camera moves.</p>
+          <h3>Decoupled injection &amp; Condition RoPE</h3>
+          <p>Text prompts and visual conditions are fused through joint attention, while explicit camera trajectories are injected through a dedicated MLP pathway. 3D Condition RoPE assigns modality-specific spatial-temporal offsets to reduce interference.</p>
         </div>
       </article>
 
@@ -230,10 +230,11 @@
             <span class="number">03</span>
             <p class="kicker">Training strategy</p>
             <h3>Dual-level curriculum</h3>
-            <p>Training progresses from text to reference video to trajectory control, then from precise synthetic supervision to photorealistic real-world adaptation.</p>
+            <p>Training progresses from text to reference video to trajectory control, then from precise synthetic supervision to photorealistic real-world adaptation. Dual-condition classifier-free guidance provides separate scales for semantic text and camera-motion conditions.</p>
           </div>
         </article>
       </div>
+      <p class="method-scope"><strong>Current scope.</strong> Finer-grained controls such as multiple reference images and localized motion guidance remain future work.</p>
     </section>
 
     <section class="section results-section" id="results">
@@ -291,10 +292,14 @@
         </div>
         <div class="code-wrap">
           <button class="copy-button" id="copyCitation" type="button">Copy BibTeX</button>
-          <pre><code id="citationCode">@article{wang2026omnicamera,
-  title   = {OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control},
-  author  = {Wang, Yukun and Li, Ruihuang and Tao, Jiale and Yang, Shiyuan and Chen, Liyi and Yang, Zhantao and Handz and Guo, Yulan and Shao, Shuai and Lu, Qinglin},
-  year    = {2026}
+          <pre><code id="citationCode">@misc{wang2026omnicamera,
+  title         = {OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control},
+  author        = {Wang, Yukun and Li, Ruihuang and Tao, Jiale and Yang, Shiyuan and Chen, Liyi and Yang, Zhantao and Handz and Guo, Yulan and Shao, Shuai and Lu, Qinglin},
+  year          = {2026},
+  eprint        = {2604.06010},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2604.06010}
 }</code></pre>
         </div>
       </div>

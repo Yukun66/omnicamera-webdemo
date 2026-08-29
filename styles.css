@@ -223,6 +223,8 @@ sup { font-size: .63em; color: var(--muted); }
 .paper-figure img { width: 100%; display: block; object-fit: contain; }
 .paper-figure figcaption { margin-top: 12px; font-size: .72rem; color: #617875; }
 .feature-grid .paper-figure { border-top: 1px solid var(--line); }
+.method-scope { margin: 22px 0 0; padding: 14px 18px; border: 1px solid var(--line); border-radius: 14px; color: var(--muted); font-size: .88rem; line-height: 1.65; }
+.method-scope strong { color: var(--ink); font-weight: 650; }
 #method .section-heading { margin-bottom: 34px; }
 #method .feature-copy { padding: 32px; }
 #method .feature-copy .number, #method .feature-copy.compact .number { margin-bottom: 28px; }
