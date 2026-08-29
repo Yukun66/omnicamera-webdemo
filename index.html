@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="OmniCamera is a unified framework for multi-task video generation with arbitrary camera control across text, image, and video content conditions.">
+  <meta name="theme-color" content="#071014">
+  <meta property="og:title" content="OmniCamera — Arbitrary Camera Control for Video Generation">
+  <meta property="og:description" content="One model. Three camera conditions. Three content conditions. Nine generation tasks.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/og-omnicamera.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <title>OmniCamera — Unified Video Generation with Arbitrary Camera Control</title>
+  <link rel="stylesheet" href="styles.css?v=20260829j">
+  <script src="app.js?v=20260829j" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header" id="top">
+    <nav class="nav shell" aria-label="Primary navigation">
+      <a class="brand" href="#top" aria-label="OmniCamera home">
+        <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span>OmniCamera</span>
+      </a>
+      <div class="nav-links">
+        <a href="#results">Results</a>
+        <a href="#abstract">About</a>
+        <a href="#method">Method</a>
+        <a href="#citation">Citation</a>
+      </div>
+      <a class="button button-small button-ghost" href="https://arxiv.org/abs/2604.06010" target="_blank" rel="noopener">Paper <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero shell">
+      <div class="hero-glow" aria-hidden="true"></div>
+      <p class="eyebrow reveal">One model · Nine tasks · Arbitrary camera control</p>
+      <h1 class="reveal"><span>OmniCamera</span></h1>
+      <p class="hero-title reveal">A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control</p>
+
+      <div class="authors reveal" aria-label="Authors">
+        <span>Yukun Wang<sup>1,2,*</sup></span>
+        <span>Ruihuang Li<sup>2,†</sup></span>
+        <span>Jiale Tao<sup>2</sup></span>
+        <span>Shiyuan Yang<sup>2,3</sup></span>
+        <span>Liyi Chen<sup>2,4</sup></span>
+        <span>Zhantao Yang<sup>2</sup></span>
+        <span>Handz<sup>2</sup></span>
+        <span>Yulan Guo<sup>1,†</sup></span>
+        <span>Shuai Shao<sup>2</sup></span>
+        <span>Qinglin Lu<sup>2</sup></span>
+      </div>
+      <p class="affiliations reveal"><sup>1</sup> Sun Yat-sen University · <sup>2</sup> Hunyuan, Tencent · <sup>3</sup> CityU · <sup>4</sup> PolyU</p>
+      <p class="author-note reveal"><sup>*</sup> Work done during an internship at Tencent Hunyuan. <sup>†</sup> Corresponding authors.</p>
+
+      <div class="hero-actions reveal">
+        <a class="button button-primary" href="#results">Explore video results <span aria-hidden="true">↓</span></a>
+        <a class="button button-ghost" href="video/OmniCamera_supp_video.mp4">Watch full showcase <span aria-hidden="true">▶</span></a>
+        <a class="button button-ghost" href="https://arxiv.org/abs/2604.06010" target="_blank" rel="noopener">Read the paper <span aria-hidden="true">↗</span></a>
+      </div>
+
+      <div class="condition-lab reveal" aria-label="Interactive nine-condition OmniCamera demo">
+        <div class="condition-column camera-controls" role="group" aria-label="Choose camera control">
+          <p class="condition-heading"><span>01</span> Camera control</p>
+          <button class="condition-option" type="button" data-camera="text" aria-pressed="true">
+            <i aria-hidden="true">T</i><span><strong>Motion Text</strong><small>Semantic control</small></span>
+          </button>
+          <button class="condition-option" type="button" data-camera="trajectory" aria-pressed="false">
+            <i aria-hidden="true">⌁</i><span><strong>3D Trajectory</strong><small>Geometric control</small></span>
+          </button>
+          <button class="condition-option" type="button" data-camera="reference" aria-pressed="false">
+            <i aria-hidden="true">▶</i><span><strong>Reference Video</strong><small>Motion transfer</small></span>
+          </button>
+        </div>
+
+        <article class="condition-stage">
+          <div class="featured-conditions">
+            <section class="featured-condition-card">
+              <div class="condition-card-head">
+                <span>Camera condition</span>
+                <div><b id="featuredCameraType">Motion Text</b><small id="featuredCameraCounter">01 / 01</small></div>
+              </div>
+              <div class="condition-selector">
+                <button type="button" id="featuredCameraPrev" aria-label="Previous camera condition">◀</button>
+                <div class="condition-media" id="featuredCameraCondition"></div>
+                <button type="button" id="featuredCameraNext" aria-label="Next camera condition">▶</button>
+              </div>
+              <div class="condition-rail-wrap">
+                <span>Click or scroll to switch</span>
+                <div class="condition-rail" id="featuredCameraRail" aria-label="Compatible camera conditions"></div>
+              </div>
+            </section>
+            <div class="condition-operator" aria-hidden="true">+</div>
+            <section class="featured-condition-card">
+              <div class="condition-card-head">
+                <span>Content condition</span>
+                <div><b id="featuredContentType">Source Video</b><small id="featuredContentCounter">01 / 01</small></div>
+              </div>
+              <div class="condition-selector">
+                <button type="button" id="featuredContentPrev" aria-label="Previous content condition">◀</button>
+                <div class="condition-media" id="featuredContentCondition"></div>
+                <button type="button" id="featuredContentNext" aria-label="Next content condition">▶</button>
+              </div>
+              <div class="condition-rail-wrap">
+                <span>Click or scroll to switch</span>
+                <div class="condition-rail" id="featuredContentRail" aria-label="Compatible content conditions"></div>
+              </div>
+            </section>
+          </div>
+          <div class="generation-arrow" aria-hidden="true"><span>Generate</span><i>↓</i></div>
+          <div class="condition-video-frame">
+            <video id="conditionVideo" muted autoplay loop playsinline controls preload="metadata" aria-label="Selected OmniCamera result"></video>
+            <div class="condition-status" aria-hidden="true"><i></i><span>Generated result</span></div>
+          </div>
+          <div class="featured-result-nav" aria-label="Browse available generated results">
+            <div class="featured-result-progress">
+              <span id="featuredBrowseStatus">All results</span>
+              <b id="featuredResultCounter">01 / 01</b>
+            </div>
+            <div class="featured-result-actions">
+              <button type="button" id="featuredResultPrev" aria-label="Previous available result">←</button>
+              <button type="button" id="featuredResultNext" aria-label="Next available result">→</button>
+              <button type="button" id="featuredClearFilter" class="featured-clear-filter" disabled>All results</button>
+            </div>
+          </div>
+          <div class="condition-caption" aria-live="polite">
+            <div class="condition-pair"><span id="conditionCameraLabel">Motion Text</span><b>×</b><span id="conditionContentLabel">Source Video</span></div>
+            <strong id="conditionTitle">Dolly in</strong>
+            <p id="conditionDescription">Re-camera an existing video with natural-language camera commands while preserving the source content.</p>
+          </div>
+        </article>
+
+        <div class="condition-column content-controls" role="group" aria-label="Choose content input">
+          <p class="condition-heading"><span>02</span> Content input</p>
+          <button class="condition-option" type="button" data-content="t2v" aria-pressed="false">
+            <i aria-hidden="true">Aa</i><span><strong>Text Prompt</strong><small>Create a new scene</small></span>
+          </button>
+          <button class="condition-option" type="button" data-content="i2v" aria-pressed="false">
+            <i aria-hidden="true">◫</i><span><strong>Image</strong><small>Animate one frame</small></span>
+          </button>
+          <button class="condition-option" type="button" data-content="v2v" aria-pressed="true">
+            <i aria-hidden="true">▶</i><span><strong>Source Video</strong><small>Re-camera a scene</small></span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <section class="section shell" id="abstract">
+      <div class="section-heading two-column-heading">
+        <div>
+          <p class="eyebrow">The idea</p>
+          <h2>Decouple what happens<br>from how it is seen.</h2>
+        </div>
+        <div class="abstract-copy">
+          <p class="lead">Video intertwines two axes: the dynamic content of a scene and the camera motion through which it is observed. OmniCamera explicitly disentangles and commands both.</p>
+        </div>
+      </div>
+
+      <div class="stat-grid" aria-label="Key project statistics">
+        <article><strong>3 × 3</strong><span>control combinations</span></article>
+        <article><strong>830K</strong><span>synthetic + real videos</span></article>
+        <article><strong>50</strong><span>camera-motion types</span></article>
+        <article><strong>5B</strong><span>parameter backbone</span></article>
+      </div>
+    </section>
+
+    <section class="section matrix-section" aria-labelledby="matrix-title" hidden>
+      <div class="shell">
+        <div class="section-heading centered">
+          <p class="eyebrow">A complete generation space</p>
+          <h2 id="matrix-title">Choose the scene. Choose the camera.</h2>
+          <p>Every cell is a first-class task supported by the same unified model.</p>
+        </div>
+
+        <div class="control-matrix" role="group" aria-label="Nine OmniCamera generation modes">
+          <div class="matrix-corner"><span>Camera condition</span><b>Content condition →</b></div>
+          <div class="matrix-label"><i class="matrix-icon text-icon">T</i><span>Text prompt</span><small>T2V</small></div>
+          <div class="matrix-label"><i class="matrix-icon image-icon">◫</i><span>Image</span><small>I2V</small></div>
+          <div class="matrix-label"><i class="matrix-icon video-icon">▶</i><span>Source video</span><small>V2V</small></div>
+
+          <div class="matrix-row-label"><span>Motion text</span><small>Semantic control</small></div>
+          <button type="button" class="matrix-cell" data-mode-target="text-t2v"><b>Text-controlled</b><span>Text → Video</span><em>Explore ↘</em></button>
+          <button type="button" class="matrix-cell" data-mode-target="text-i2v"><b>Text-controlled</b><span>Image → Video</span><em>Explore ↘</em></button>
+          <button type="button" class="matrix-cell" data-mode-target="text-v2v"><b>Text-controlled</b><span>Video → Video</span><em>Explore ↘</em></button>
+
+          <div class="matrix-row-label"><span>3D trajectory</span><small>Geometric control</small></div>
+          <button type="button" class="matrix-cell" data-mode-target="trajectory-t2v"><b>Trajectory-controlled</b><span>Text → Video</span><em>Explore ↘</em></button>
+          <button type="button" class="matrix-cell" data-mode-target="trajectory-i2v"><b>Trajectory-controlled</b><span>Image → Video</span><em>Explore ↘</em></button>
+          <button type="button" class="matrix-cell" data-mode-target="trajectory-v2v"><b>Trajectory-controlled</b><span>Video → Video</span><em>Explore ↘</em></button>
+
+          <div class="matrix-row-label"><span>Motion reference</span><small>Example-based control</small></div>
+          <button type="button" class="matrix-cell" data-mode-target="reference-t2v"><b>Reference-controlled</b><span>Text → Video</span><em>Explore ↘</em></button>
+          <button type="button" class="matrix-cell" data-mode-target="reference-i2v"><b>Reference-controlled</b><span>Image → Video</span><em>Explore ↘</em></button>
+          <button type="button" class="matrix-cell" data-mode-target="reference-v2v"><b>Reference-controlled</b><span>Video → Video</span><em>Explore ↘</em></button>
+        </div>
+      </div>
+    </section>
+
+    <section class="section shell" id="method">
+      <div class="section-heading centered narrow">
+        <p class="eyebrow">Method</p>
+        <h2>Why one model handles all nine tasks.</h2>
+        <p>Three ideas make the video control stable, precise, and photorealistic.</p>
+      </div>
+
+      <article class="feature feature-wide">
+        <div class="feature-copy">
+          <span class="number">01</span>
+          <p class="kicker">Unified architecture</p>
+          <h3>Decoupled condition injection</h3>
+          <p>Camera and content conditions enter the transformer through separate paths, reducing interference between what appears and how the camera moves.</p>
+        </div>
+      </article>
+
+      <div class="feature-grid">
+        <article class="feature">
+          <div class="feature-copy compact">
+            <span class="number">02</span>
+            <p class="kicker">OmniCAM dataset</p>
+            <h3>Precision meets realism</h3>
+            <p>Accurate UE5 trajectories provide geometric supervision; curated real videos restore photorealism and broaden scene diversity.</p>
+          </div>
+        </article>
+
+        <article class="feature">
+          <div class="feature-copy compact">
+            <span class="number">03</span>
+            <p class="kicker">Training strategy</p>
+            <h3>Dual-level curriculum</h3>
+            <p>Training progresses from text to reference video to trajectory control, then from precise synthetic supervision to photorealistic real-world adaptation.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section results-section" id="results">
+      <div class="shell">
+        <div class="section-heading results-heading">
+          <div>
+            <p class="eyebrow">Interactive results</p>
+            <h2>Nine tasks, explored in one place.</h2>
+          </div>
+          <p>Each case exposes its camera condition, content condition, and generated result together. Videos load as they enter the viewport.</p>
+        </div>
+
+        <div class="mode-tabs" role="tablist" aria-label="Generation task">
+          <button type="button" role="tab" aria-selected="true" data-mode="text-v2v">Text · V2V</button>
+          <button type="button" role="tab" aria-selected="false" data-mode="trajectory-v2v">Trajectory · V2V</button>
+          <button type="button" role="tab" aria-selected="false" data-mode="reference-v2v">Reference · V2V</button>
+          <button type="button" role="tab" aria-selected="false" data-mode="text-i2v">Text · I2V</button>
+          <button type="button" role="tab" aria-selected="false" data-mode="trajectory-i2v">Trajectory · I2V</button>
+          <button type="button" role="tab" aria-selected="false" data-mode="reference-i2v">Reference · I2V</button>
+          <button type="button" role="tab" aria-selected="false" data-mode="text-t2v">Text · T2V</button>
+          <button type="button" role="tab" aria-selected="false" data-mode="trajectory-t2v">Trajectory · T2V</button>
+          <button type="button" role="tab" aria-selected="false" data-mode="reference-t2v">Reference · T2V</button>
+        </div>
+
+        <div class="result-panel" id="resultPanel" role="tabpanel" tabindex="0" aria-live="polite">
+          <div class="result-panel-head">
+            <div>
+              <p class="result-index" id="resultIndex">01 / 09</p>
+              <h3 id="resultTitle">Text-controlled V2V</h3>
+              <p id="resultDescription"></p>
+              <p class="result-count" id="resultCount">0 results</p>
+            </div>
+            <div class="gallery-controls">
+              <button type="button" id="galleryPrev" aria-label="Previous examples">←</button>
+              <button type="button" id="galleryNext" aria-label="Next examples">→</button>
+            </div>
+          </div>
+          <div class="command-filters" id="commandFilters" aria-label="Camera motion filters"></div>
+          <div class="video-gallery" id="videoGallery"></div>
+        </div>
+        <div class="gallery-empty-state" id="galleryEmptyState" hidden>
+          <span>ALL INCLUDED</span>
+          <p>Every available result for this task is already reachable from the condition controls above.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section shell citation-section" id="citation">
+      <div class="citation-card">
+        <div class="citation-copy">
+          <p class="eyebrow">Citation</p>
+          <h2>Build on OmniCamera.</h2>
+          <p>If this work supports your research, please cite the paper.</p>
+          <a class="text-link" href="https://arxiv.org/abs/2604.06010" target="_blank" rel="noopener">View on arXiv <span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="code-wrap">
+          <button class="copy-button" id="copyCitation" type="button">Copy BibTeX</button>
+          <pre><code id="citationCode">@article{wang2026omnicamera,
+  title   = {OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control},
+  author  = {Wang, Yukun and Li, Ruihuang and Tao, Jiale and Yang, Shiyuan and Chen, Liyi and Yang, Zhantao and Handz and Guo, Yulan and Shao, Shuai and Lu, Qinglin},
+  year    = {2026}
+}</code></pre>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="shell footer-inner">
+      <div>
+        <a class="brand" href="#top"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span>OmniCamera</span></a>
+        <p>Arbitrary camera control for unified video generation.</p>
+      </div>
+      <div class="footer-links">
+        <a href="https://arxiv.org/abs/2604.06010" target="_blank" rel="noopener">Paper</a>
+        <a href="video/OmniCamera_supp_video.mp4">Supplementary video</a>
+        <a href="#results">Results</a>
+        <a href="#top">Back to top ↑</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

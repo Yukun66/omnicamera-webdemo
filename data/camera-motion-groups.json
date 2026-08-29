@@ -1,0 +1,126 @@
+{
+  "trajectory": {
+    "m001": {
+      "label": "Truck Down + Tilt Up",
+      "group": "truck-down-tilt-up",
+      "groupLabel": "Truck Down + Tilt Up"
+    },
+    "m002": {
+      "label": "Zoom Out",
+      "group": "zoom-out",
+      "groupLabel": "Zoom Out"
+    },
+    "m003": {
+      "label": "Tilt Up",
+      "group": "tilt-up",
+      "groupLabel": "Tilt Up"
+    },
+    "m004": {
+      "label": "Triangular Trajectory",
+      "group": "triangular-trajectory",
+      "groupLabel": "Triangular Trajectory"
+    },
+    "m005": {
+      "label": "Pan Left",
+      "group": "pan-left",
+      "groupLabel": "Pan Left"
+    },
+    "m006": {
+      "label": "Orbit Right",
+      "group": "orbit-right",
+      "groupLabel": "Orbit Right"
+    },
+    "m007": {
+      "label": "Tilt Down",
+      "group": "tilt-down",
+      "groupLabel": "Tilt Down"
+    },
+    "m008": {
+      "label": "Truck Up + Tilt Down",
+      "group": "truck-up-tilt-down",
+      "groupLabel": "Truck Up + Tilt Down"
+    },
+    "m009": {
+      "label": "Truck Left + Dolly In",
+      "group": "truck-left-dolly-in",
+      "groupLabel": "Truck Left + Dolly In"
+    },
+    "m010": {
+      "label": "Truck Left-Up",
+      "group": "truck-left-up",
+      "groupLabel": "Truck Left-Up"
+    },
+    "m011": {
+      "label": "Zoom In",
+      "group": "zoom-in",
+      "groupLabel": "Zoom In"
+    },
+    "m012": {
+      "label": "Orbit Left",
+      "group": "orbit-left",
+      "groupLabel": "Orbit Left"
+    },
+    "m013": {
+      "label": "Truck Right-Up",
+      "group": "truck-right-up",
+      "groupLabel": "Truck Right-Up"
+    },
+    "m014": {
+      "label": "Pan Right",
+      "group": "pan-right",
+      "groupLabel": "Pan Right"
+    }
+  },
+  "reference": {
+    "m001": {
+      "label": "Truck Right",
+      "group": "truck-right",
+      "groupLabel": "Truck Right"
+    },
+    "m002": {
+      "label": "Orbit Left",
+      "group": "orbit-left",
+      "groupLabel": "Orbit Left"
+    },
+    "m003": {
+      "label": "Tilt Up",
+      "group": "tilt-up",
+      "groupLabel": "Tilt Up"
+    },
+    "m005": {
+      "label": "Pan Left",
+      "group": "pan-left",
+      "groupLabel": "Pan Left"
+    },
+    "m007": {
+      "label": "Dolly Out",
+      "group": "dolly-out",
+      "groupLabel": "Dolly Out"
+    },
+    "m008": {
+      "label": "Truck Left",
+      "group": "truck-left",
+      "groupLabel": "Truck Left"
+    },
+    "m009": {
+      "label": "Zoom In",
+      "group": "zoom-in",
+      "groupLabel": "Zoom In"
+    },
+    "m012": {
+      "label": "Pan Right",
+      "group": "pan-right",
+      "groupLabel": "Pan Right"
+    },
+    "m031": {
+      "label": "Tilt Down",
+      "group": "tilt-down",
+      "groupLabel": "Tilt Down"
+    },
+    "m035": {
+      "label": "Orbit Right",
+      "group": "orbit-right",
+      "groupLabel": "Orbit Right"
+    }
+  }
+}

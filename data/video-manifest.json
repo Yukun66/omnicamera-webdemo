@@ -1,0 +1,5436 @@
+{
+  "modes": {
+    "text-t2v": [
+      {
+        "id": "01_m002_c032",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/01_m002_c032/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c032",
+        "cameraRef": "m002",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right-down"
+        },
+        "command": "Orbiting Right-down",
+        "content": {
+          "kind": "text",
+          "text": "A forest surrounded by mountains."
+        }
+      },
+      {
+        "id": "01_m011_c001",
+        "label": "m011",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/01_m011_c001/result.mp4?v=1786552827000000000"
+        },
+        "contentRef": "c001",
+        "cameraRef": "m011",
+        "camera": {
+          "kind": "text",
+          "text": "Zoom out"
+        },
+        "command": "Zoom out",
+        "content": {
+          "kind": "text",
+          "text": "A frozen riverbed at sunset in winter."
+        }
+      },
+      {
+        "id": "02_m002_c002",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/02_m002_c002/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c002",
+        "cameraRef": "m002",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right-down"
+        },
+        "command": "Orbiting Right-down",
+        "content": {
+          "kind": "text",
+          "text": "Victoria Harbour in Hong Kong."
+        }
+      },
+      {
+        "id": "02_m011_c007",
+        "label": "m011",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/02_m011_c007/result.mp4?v=1786552827000000000"
+        },
+        "contentRef": "c007",
+        "cameraRef": "m011",
+        "camera": {
+          "kind": "text",
+          "text": "Zoom out"
+        },
+        "command": "Zoom out",
+        "content": {
+          "kind": "text",
+          "text": "An aerial view of a city."
+        }
+      },
+      {
+        "id": "03_m002_c028",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/03_m002_c028/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c028",
+        "cameraRef": "m002",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right-down"
+        },
+        "command": "Orbiting Right-down",
+        "content": {
+          "kind": "text",
+          "text": "A dog playing in a park."
+        }
+      },
+      {
+        "id": "05_m002_c032",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/05_m002_c032/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c032",
+        "cameraRef": "m002",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right-down"
+        },
+        "command": "Orbiting Right-down",
+        "content": {
+          "kind": "text",
+          "text": "A forest surrounded by mountains."
+        }
+      },
+      {
+        "id": "06_m002_c035",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/06_m002_c035/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c035",
+        "cameraRef": "m002",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right-down"
+        },
+        "command": "Orbiting Right-down",
+        "content": {
+          "kind": "text",
+          "text": "A jeep driving through the woods."
+        }
+      },
+      {
+        "id": "07_m002_c034",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/07_m002_c034/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c034",
+        "cameraRef": "m002",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right-down"
+        },
+        "command": "Orbiting Right-down",
+        "content": {
+          "kind": "text",
+          "text": "Yachts and boats by the sea."
+        }
+      },
+      {
+        "id": "08_m002_c033",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/08_m002_c033/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c033",
+        "cameraRef": "m002",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right-down"
+        },
+        "command": "Orbiting Right-down",
+        "content": {
+          "kind": "text",
+          "text": "Two sports cars inside a garage."
+        }
+      },
+      {
+        "id": "09_m002_c030",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/09_m002_c030/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c030",
+        "cameraRef": "m002",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right-down"
+        },
+        "command": "Orbiting Right-down",
+        "content": {
+          "kind": "text",
+          "text": "A sports field in a city."
+        }
+      },
+      {
+        "id": "10_m016_c002",
+        "label": "m016",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/10_m016_c002/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c002",
+        "cameraRef": "m016",
+        "camera": {
+          "kind": "text",
+          "text": "Boom up + Truck Left"
+        },
+        "command": "Boom up + Truck Left",
+        "content": {
+          "kind": "text",
+          "text": "Victoria Harbour in Hong Kong."
+        }
+      },
+      {
+        "id": "11_m018_c002",
+        "label": "m018",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/11_m018_c002/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c002",
+        "cameraRef": "m018",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Left + Tilt Up"
+        },
+        "command": "Pan Left + Tilt Up",
+        "content": {
+          "kind": "text",
+          "text": "Victoria Harbour in Hong Kong."
+        }
+      },
+      {
+        "id": "12_m020_c008",
+        "label": "m020",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/12_m020_c008/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c008",
+        "cameraRef": "m020",
+        "camera": {
+          "kind": "text",
+          "text": "Boom down + Truck Left"
+        },
+        "command": "Boom down + Truck Left",
+        "content": {
+          "kind": "text",
+          "text": "A seaside beach at sunset."
+        }
+      },
+      {
+        "id": "13_m022_c008",
+        "label": "m022",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/13_m022_c008/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c008",
+        "cameraRef": "m022",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Left-down"
+        },
+        "command": "Orbiting Left-down",
+        "content": {
+          "kind": "text",
+          "text": "A seaside beach at sunset."
+        }
+      },
+      {
+        "id": "14_m001_c008",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/14_m001_c008/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c008",
+        "cameraRef": "m001",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right"
+        },
+        "command": "Orbiting Right",
+        "content": {
+          "kind": "text",
+          "text": "A seaside beach at sunset."
+        }
+      },
+      {
+        "id": "16_m017_c025",
+        "label": "m017",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/16_m017_c025/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c025",
+        "cameraRef": "m017",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Left"
+        },
+        "command": "Pan Left",
+        "content": {
+          "kind": "text",
+          "text": "A golden retriever running through a park."
+        }
+      },
+      {
+        "id": "17_m013_c026",
+        "label": "m013",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/17_m013_c026/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c026",
+        "cameraRef": "m013",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Right"
+        },
+        "command": "Pan Right",
+        "content": {
+          "kind": "text",
+          "text": "A koala sitting in a tree."
+        }
+      },
+      {
+        "id": "18_m018_c024",
+        "label": "m018",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/18_m018_c024/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c024",
+        "cameraRef": "m018",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Left + Tilt Up"
+        },
+        "command": "Pan Left + Tilt Up",
+        "content": {
+          "kind": "text",
+          "text": "An aerial view of a park on a lake in the city."
+        }
+      },
+      {
+        "id": "19_m018_c023",
+        "label": "m018",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/19_m018_c023/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c023",
+        "cameraRef": "m018",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Left + Tilt Up"
+        },
+        "command": "Pan Left + Tilt Up",
+        "content": {
+          "kind": "text",
+          "text": "A river running through a city."
+        }
+      },
+      {
+        "id": "20_m002_c027",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/20_m002_c027/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c027",
+        "cameraRef": "m002",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right-down"
+        },
+        "command": "Orbiting Right-down",
+        "content": {
+          "kind": "text",
+          "text": "An elephant in a zoo."
+        }
+      },
+      {
+        "id": "21_m018_c022",
+        "label": "m018",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/21_m018_c022/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c022",
+        "cameraRef": "m018",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Left + Tilt Up"
+        },
+        "command": "Pan Left + Tilt Up",
+        "content": {
+          "kind": "text",
+          "text": "An aerial view of a city bridge."
+        }
+      },
+      {
+        "id": "22_m013_c015",
+        "label": "m013",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/22_m013_c015/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c015",
+        "cameraRef": "m013",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Right"
+        },
+        "command": "Pan Right",
+        "content": {
+          "kind": "text",
+          "text": "A brown bear walking around a zoo."
+        }
+      },
+      {
+        "id": "23_m031_c021",
+        "label": "m031",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/23_m031_c021/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c021",
+        "cameraRef": "m031",
+        "camera": {
+          "kind": "text",
+          "text": "Tilt Down"
+        },
+        "command": "Tilt Down",
+        "content": {
+          "kind": "text",
+          "text": "Ducks swimming on a lake."
+        }
+      },
+      {
+        "id": "24_m027_c032",
+        "label": "m027",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/24_m027_c032/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c032",
+        "cameraRef": "m027",
+        "camera": {
+          "kind": "text",
+          "text": "Truck Right + Tilt Up"
+        },
+        "command": "Truck Right + Tilt Up",
+        "content": {
+          "kind": "text",
+          "text": "A forest surrounded by mountains."
+        }
+      },
+      {
+        "id": "25_m020_c031",
+        "label": "m020",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/25_m020_c031/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c031",
+        "cameraRef": "m020",
+        "camera": {
+          "kind": "text",
+          "text": "Boom down + Truck Left"
+        },
+        "command": "Boom down + Truck Left",
+        "content": {
+          "kind": "text",
+          "text": "A Chinese-style park with a traditional pagoda."
+        }
+      },
+      {
+        "id": "26_m013_c004",
+        "label": "m013",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/26_m013_c004/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c004",
+        "cameraRef": "m013",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Right"
+        },
+        "command": "Pan Right",
+        "content": {
+          "kind": "text",
+          "text": "A boat sailing across the blue sea near the coastline."
+        }
+      },
+      {
+        "id": "26_m018_c030",
+        "label": "m018",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/26_m018_c030/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c030",
+        "cameraRef": "m018",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Left + Tilt Up"
+        },
+        "command": "Pan Left + Tilt Up",
+        "content": {
+          "kind": "text",
+          "text": "A sports field in a city."
+        }
+      },
+      {
+        "id": "27_m013_c006",
+        "label": "m013",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/27_m013_c006/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c006",
+        "cameraRef": "m013",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Right"
+        },
+        "command": "Pan Right",
+        "content": {
+          "kind": "text",
+          "text": "A castle by the coast."
+        }
+      },
+      {
+        "id": "28_m005_c020",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/28_m005_c020/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c020",
+        "cameraRef": "m005",
+        "camera": {
+          "kind": "text",
+          "text": "Truck Left"
+        },
+        "command": "Truck Left",
+        "content": {
+          "kind": "text",
+          "text": "A motorcyclist performing stunts on the road."
+        }
+      },
+      {
+        "id": "29_m017_c009",
+        "label": "m017",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/text/29_m017_c009/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c009",
+        "cameraRef": "m017",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Left"
+        },
+        "command": "Pan Left",
+        "content": {
+          "kind": "text",
+          "text": "A surfer standing by the sea."
+        }
+      }
+    ],
+    "text-i2v": [
+      {
+        "id": "01_m003_c001",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/01_m003_c001/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "Rally Car",
+        "cameraRef": "m003",
+        "camera": {
+          "kind": "text",
+          "text": "Truck Right"
+        },
+        "command": "Truck Right",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c001.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "02_m005_c001",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/02_m005_c001/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "Rally Car",
+        "cameraRef": "m005",
+        "camera": {
+          "kind": "text",
+          "text": "Truck Left"
+        },
+        "command": "Truck Left",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c001.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "03_m007_c001",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/03_m007_c001/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "Rally Car",
+        "cameraRef": "m007",
+        "camera": {
+          "kind": "text",
+          "text": "Zoom in"
+        },
+        "command": "Zoom in",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c001.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "04_m008_c002",
+        "label": "m008",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/04_m008_c002/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Little Girl Holding a Kitten",
+        "cameraRef": "m008",
+        "camera": {
+          "kind": "text",
+          "text": "Arc Left"
+        },
+        "command": "Arc Left",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c002.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "05_m007_c002",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/05_m007_c002/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Little Girl Holding a Kitten",
+        "cameraRef": "m007",
+        "camera": {
+          "kind": "text",
+          "text": "Zoom in"
+        },
+        "command": "Zoom in",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c002.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "06_m011_c002",
+        "label": "m011",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/06_m011_c002/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Little Girl Holding a Kitten",
+        "cameraRef": "m011",
+        "camera": {
+          "kind": "text",
+          "text": "Zoom out"
+        },
+        "command": "Zoom out",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c002.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "07_m013_c004",
+        "label": "m013",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/07_m013_c004/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Surfing",
+        "cameraRef": "m013",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Right"
+        },
+        "command": "Pan Right",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c004.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "09_m013_c007",
+        "label": "m013",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/09_m013_c007/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c007",
+        "contentLabel": "Golden Retriever",
+        "cameraRef": "m013",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Right"
+        },
+        "command": "Pan Right",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c007.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "10_m013_c008",
+        "label": "m013",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/10_m013_c008/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c008",
+        "contentLabel": "Koala",
+        "cameraRef": "m013",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Right"
+        },
+        "command": "Pan Right",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c008.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "11_m013_c009",
+        "label": "m013",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/11_m013_c009/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c009",
+        "contentLabel": "Exhibition Staff",
+        "cameraRef": "m013",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Right"
+        },
+        "command": "Pan Right",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c009.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "12_c013_c010",
+        "label": "c013",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/12_c013_c010/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c010",
+        "contentLabel": "Child Riding a Bicycle",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c010.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "14_m005_c012",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/14_m005_c012/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c012",
+        "contentLabel": "Sailboat",
+        "cameraRef": "m005",
+        "camera": {
+          "kind": "text",
+          "text": "Truck Left"
+        },
+        "command": "Truck Left",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c012.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "15_m005_c013",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/15_m005_c013/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c013",
+        "contentLabel": "Motorcycle Stunt Rider",
+        "cameraRef": "m005",
+        "camera": {
+          "kind": "text",
+          "text": "Truck Left"
+        },
+        "command": "Truck Left",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c013.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "16_m005_c014",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/16_m005_c014/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c014",
+        "contentLabel": "Friends Riding in a Car",
+        "cameraRef": "m005",
+        "camera": {
+          "kind": "text",
+          "text": "Truck Left"
+        },
+        "command": "Truck Left",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c014.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "17_m005_c015",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/17_m005_c015/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c015",
+        "contentLabel": "Goldfish",
+        "cameraRef": "m005",
+        "camera": {
+          "kind": "text",
+          "text": "Truck Left"
+        },
+        "command": "Truck Left",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c015.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "18_m005_c007",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/18_m005_c007/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c007",
+        "contentLabel": "Golden Retriever",
+        "cameraRef": "m005",
+        "camera": {
+          "kind": "text",
+          "text": "Truck Left"
+        },
+        "command": "Truck Left",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c007.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "19_m007_c019",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/19_m007_c019/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c019",
+        "contentLabel": "Surfer by the Sea",
+        "cameraRef": "m007",
+        "camera": {
+          "kind": "text",
+          "text": "Zoom in"
+        },
+        "command": "Zoom in",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c019.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "20_m007_c022",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/20_m007_c022/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c022",
+        "contentLabel": "Cow",
+        "cameraRef": "m007",
+        "camera": {
+          "kind": "text",
+          "text": "Zoom in"
+        },
+        "command": "Zoom in",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c022.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "21_m007_c025",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/21_m007_c025/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c025",
+        "contentLabel": "Car Race",
+        "cameraRef": "m007",
+        "camera": {
+          "kind": "text",
+          "text": "Zoom in"
+        },
+        "command": "Zoom in",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c025.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "22_m007_c013",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/22_m007_c013/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c013",
+        "contentLabel": "Motorcycle Stunt Rider",
+        "cameraRef": "m007",
+        "camera": {
+          "kind": "text",
+          "text": "Zoom in"
+        },
+        "command": "Zoom in",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c013.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "23_m012_c003",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/23_m012_c003/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "Brown Bear at a Zoo",
+        "cameraRef": "m012",
+        "camera": {
+          "kind": "text",
+          "text": "Dolly in"
+        },
+        "command": "Dolly in",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c003.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "24_m007_c028",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/24_m007_c028/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c028",
+        "contentLabel": "Sweeper Vehicle at a Racetrack",
+        "cameraRef": "m007",
+        "camera": {
+          "kind": "text",
+          "text": "Zoom in"
+        },
+        "command": "Zoom in",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c028.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "25_m029_c029",
+        "label": "m029",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/25_m029_c029/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c029",
+        "contentLabel": "Family of Four",
+        "cameraRef": "m029",
+        "camera": {
+          "kind": "text",
+          "text": "Arc right"
+        },
+        "command": "Arc right",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c029.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "26_m030_c042",
+        "label": "m030",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/26_m030_c042/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c042",
+        "contentLabel": "Aerial View of a Coastal City",
+        "cameraRef": "m030",
+        "camera": {
+          "kind": "text",
+          "text": "Boom up + Tilt Down"
+        },
+        "command": "Boom up + Tilt Down",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c042.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "27_m031_c043",
+        "label": "m031",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/27_m031_c043/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c043",
+        "contentLabel": "Girl Wearing Headphones",
+        "cameraRef": "m031",
+        "camera": {
+          "kind": "text",
+          "text": "Tilt Down"
+        },
+        "command": "Tilt Down",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c043.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "28_m007_c040",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/28_m007_c040/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c040",
+        "contentLabel": "Seaside at Dusk",
+        "cameraRef": "m007",
+        "camera": {
+          "kind": "text",
+          "text": "Zoom in"
+        },
+        "command": "Zoom in",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c040.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "29_m017_c041",
+        "label": "m017",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/29_m017_c041/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c041",
+        "contentLabel": "Diver",
+        "cameraRef": "m017",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Left"
+        },
+        "command": "Pan Left",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c041.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "30_m033_c044",
+        "label": "m033",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/image/30_m033_c044/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c044",
+        "contentLabel": "City Overlook",
+        "cameraRef": "m033",
+        "camera": {
+          "kind": "text",
+          "text": "Truck right"
+        },
+        "command": "Truck right",
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c044.png?v=1786552826000000000"
+        }
+      }
+    ],
+    "text-v2v": [
+      {
+        "id": "01_m001_c001",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/01_m001_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m001",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right"
+        },
+        "command": "Orbiting Right",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "01_m001_c002",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/01_m001_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m001",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right"
+        },
+        "command": "Orbiting Right",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "01_m007_c002",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/01_m007_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m007",
+        "camera": {
+          "kind": "text",
+          "text": "Zoom in"
+        },
+        "command": "Zoom in",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "01_m015_c002",
+        "label": "m015",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/01_m015_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m015",
+        "camera": {
+          "kind": "text",
+          "text": "Tilt Up"
+        },
+        "command": "Tilt Up",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "02_m004_c001",
+        "label": "m004",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/02_m004_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m004",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Left"
+        },
+        "command": "Orbiting Left",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "04_m009_c001",
+        "label": "m009",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/04_m009_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m009",
+        "camera": {
+          "kind": "text",
+          "text": "Roll Counterclockwise"
+        },
+        "command": "Roll Counterclockwise",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "05_m034_c001",
+        "label": "m034",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/05_m034_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m034",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Left-Up"
+        },
+        "command": "Orbiting Left-Up",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "06_m003_c001",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/06_m003_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m003",
+        "camera": {
+          "kind": "text",
+          "text": "Truck Right"
+        },
+        "command": "Truck Right",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "07_m012_c001",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/07_m012_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m012",
+        "camera": {
+          "kind": "text",
+          "text": "Dolly in"
+        },
+        "command": "Dolly in",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "08_m014_c001",
+        "label": "m014",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/08_m014_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m014",
+        "camera": {
+          "kind": "text",
+          "text": "Dolly out"
+        },
+        "command": "Dolly out",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "09_m015_c001",
+        "label": "m015",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/09_m015_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m015",
+        "camera": {
+          "kind": "text",
+          "text": "Tilt Up"
+        },
+        "command": "Tilt Up",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "10_m017_c001",
+        "label": "m017",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/10_m017_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m017",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Left"
+        },
+        "command": "Pan Left",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "11_m016_c001",
+        "label": "m016",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/11_m016_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m016",
+        "camera": {
+          "kind": "text",
+          "text": "Boom up + Truck Left"
+        },
+        "command": "Boom up + Truck Left",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "12_m019_c001",
+        "label": "m019",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/12_m019_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m019",
+        "camera": {
+          "kind": "text",
+          "text": "Arc Right-down"
+        },
+        "command": "Arc Right-down",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "13_m021_c004",
+        "label": "m021",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/13_m021_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m021",
+        "camera": {
+          "kind": "text",
+          "text": "Boom up + Tilt down"
+        },
+        "command": "Boom up + Tilt down",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "14_m023_c004",
+        "label": "m023",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/14_m023_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m023",
+        "camera": {
+          "kind": "text",
+          "text": "Arc Left-up"
+        },
+        "command": "Arc Left-up",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "15_m018_c004",
+        "label": "m018",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/15_m018_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m018",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Left + Tilt Up"
+        },
+        "command": "Pan Left + Tilt Up",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "16_m006_c004",
+        "label": "m006",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/16_m006_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m006",
+        "camera": {
+          "kind": "text",
+          "text": "Roll Clockwise"
+        },
+        "command": "Roll Clockwise",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "17_m019_c004",
+        "label": "m019",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/17_m019_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m019",
+        "camera": {
+          "kind": "text",
+          "text": "Arc Right-down"
+        },
+        "command": "Arc Right-down",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "18_m004_c004",
+        "label": "m004",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/18_m004_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m004",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Left"
+        },
+        "command": "Orbiting Left",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "19_m005_c004",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/19_m005_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m005",
+        "camera": {
+          "kind": "text",
+          "text": "Truck Left"
+        },
+        "command": "Truck Left",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "20_m013_c004",
+        "label": "m013",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/20_m013_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m013",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Right"
+        },
+        "command": "Pan Right",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "21_m003_c004",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/21_m003_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m003",
+        "camera": {
+          "kind": "text",
+          "text": "Truck Right"
+        },
+        "command": "Truck Right",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "22_m004_c004",
+        "label": "m004",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/22_m004_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m004",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Left"
+        },
+        "command": "Orbiting Left",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "23_m009_c004",
+        "label": "m009",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/23_m009_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m009",
+        "camera": {
+          "kind": "text",
+          "text": "Roll Counterclockwise"
+        },
+        "command": "Roll Counterclockwise",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "24_m017_c004",
+        "label": "m017",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/24_m017_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m017",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Left"
+        },
+        "command": "Pan Left",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "25_m032_c004",
+        "label": "m032",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/25_m032_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m032",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right-Up"
+        },
+        "command": "Orbiting Right-Up",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "26_m032_c001",
+        "label": "m032",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/26_m032_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m032",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right-Up"
+        },
+        "command": "Orbiting Right-Up",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "27_m032_c017",
+        "label": "m032",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/27_m032_c017/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c017",
+        "contentLabel": "Iron Man",
+        "cameraRef": "m032",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right-Up"
+        },
+        "command": "Orbiting Right-Up",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c017.mp4?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "28_m032_c008",
+        "label": "m032",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/28_m032_c008/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c008",
+        "contentLabel": "Concert",
+        "cameraRef": "m032",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right-Up"
+        },
+        "command": "Orbiting Right-Up",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c008.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "29_m032_c002",
+        "label": "m032",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/29_m032_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m032",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Right-Up"
+        },
+        "command": "Orbiting Right-Up",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "30_m006_c017",
+        "label": "m006",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/30_m006_c017/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c017",
+        "contentLabel": "Iron Man",
+        "cameraRef": "m006",
+        "camera": {
+          "kind": "text",
+          "text": "Roll Clockwise"
+        },
+        "command": "Roll Clockwise",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c017.mp4?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "31_m006_c007",
+        "label": "m006",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/31_m006_c007/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c007",
+        "contentLabel": "Gunfight",
+        "cameraRef": "m006",
+        "camera": {
+          "kind": "text",
+          "text": "Roll Clockwise"
+        },
+        "command": "Roll Clockwise",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c007.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "32_m006_c018",
+        "label": "m006",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/32_m006_c018/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c018",
+        "contentLabel": "Spider-Man",
+        "cameraRef": "m006",
+        "camera": {
+          "kind": "text",
+          "text": "Roll Clockwise"
+        },
+        "command": "Roll Clockwise",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c018.mp4?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "33_m012_c008",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/33_m012_c008/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c008",
+        "contentLabel": "Concert",
+        "cameraRef": "m012",
+        "camera": {
+          "kind": "text",
+          "text": "Dolly in"
+        },
+        "command": "Dolly in",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c008.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "34_m012_c004",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/34_m012_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m012",
+        "camera": {
+          "kind": "text",
+          "text": "Dolly in"
+        },
+        "command": "Dolly in",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "35_m012_c005",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/35_m012_c005/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c005",
+        "contentLabel": "Martial Arts",
+        "cameraRef": "m012",
+        "camera": {
+          "kind": "text",
+          "text": "Dolly in"
+        },
+        "command": "Dolly in",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c005.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "36_m012_c007",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/36_m012_c007/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c007",
+        "contentLabel": "Gunfight",
+        "cameraRef": "m012",
+        "camera": {
+          "kind": "text",
+          "text": "Dolly in"
+        },
+        "command": "Dolly in",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c007.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "37_m017_c009",
+        "label": "m017",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/37_m017_c009/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c009",
+        "contentLabel": "Spider-Man",
+        "cameraRef": "m017",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Left"
+        },
+        "command": "Pan Left",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c009.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "38_m017_c005",
+        "label": "m017",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/38_m017_c005/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c005",
+        "contentLabel": "Martial Arts",
+        "cameraRef": "m017",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Left"
+        },
+        "command": "Pan Left",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c005.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "39_m017_c007",
+        "label": "m017",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/39_m017_c007/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c007",
+        "contentLabel": "Gunfight",
+        "cameraRef": "m017",
+        "camera": {
+          "kind": "text",
+          "text": "Pan Left"
+        },
+        "command": "Pan Left",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c007.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "40_m034_c017",
+        "label": "m034",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/40_m034_c017/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c017",
+        "contentLabel": "Iron Man",
+        "cameraRef": "m034",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Left-Up"
+        },
+        "command": "Orbiting Left-Up",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c017.mp4?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "41_m034_c008",
+        "label": "m034",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/41_m034_c008/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c008",
+        "contentLabel": "Concert",
+        "cameraRef": "m034",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Left-Up"
+        },
+        "command": "Orbiting Left-Up",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c008.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "42_m034_c003",
+        "label": "m034",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/42_m034_c003/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "The Great Gatsby",
+        "cameraRef": "m034",
+        "camera": {
+          "kind": "text",
+          "text": "Orbiting Left-Up"
+        },
+        "command": "Orbiting Left-Up",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c003.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "43_m014_c002",
+        "label": "m014",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/43_m014_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m014",
+        "camera": {
+          "kind": "text",
+          "text": "Dolly out"
+        },
+        "command": "Dolly out",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "44_m014_c017",
+        "label": "m014",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/44_m014_c017/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c017",
+        "contentLabel": "Iron Man",
+        "cameraRef": "m014",
+        "camera": {
+          "kind": "text",
+          "text": "Dolly out"
+        },
+        "command": "Dolly out",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c017.mp4?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "45_m014_c018",
+        "label": "m014",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/45_m014_c018/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c018",
+        "contentLabel": "Spider-Man",
+        "cameraRef": "m014",
+        "camera": {
+          "kind": "text",
+          "text": "Dolly out"
+        },
+        "command": "Dolly out",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c018.mp4?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "46_m014_c005",
+        "label": "m014",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/text/video/46_m014_c005/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c005",
+        "contentLabel": "Martial Arts",
+        "cameraRef": "m014",
+        "camera": {
+          "kind": "text",
+          "text": "Dolly out"
+        },
+        "command": "Dolly out",
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c005.mp4?v=1786552825000000000"
+        }
+      }
+    ],
+    "trajectory-t2v": [
+      {
+        "id": "01_m002_c018",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/01_m002_c018/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c018",
+        "cameraRef": "m002",
+        "cameraMotion": {
+          "label": "Zoom Out",
+          "group": "zoom-out",
+          "groupLabel": "Zoom Out"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m002_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "The seaside at nightfall."
+        }
+      },
+      {
+        "id": "02_m002_c015",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/02_m002_c015/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c015",
+        "cameraRef": "m002",
+        "cameraMotion": {
+          "label": "Zoom Out",
+          "group": "zoom-out",
+          "groupLabel": "Zoom Out"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m002_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A brown bear walking around a zoo."
+        }
+      },
+      {
+        "id": "03_m002_c017",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/03_m002_c017/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c017",
+        "cameraRef": "m002",
+        "cameraMotion": {
+          "label": "Zoom Out",
+          "group": "zoom-out",
+          "groupLabel": "Zoom Out"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m002_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A seaside park at sunset."
+        }
+      },
+      {
+        "id": "04_m001_c011",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/04_m001_c011/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c011",
+        "cameraRef": "m001",
+        "cameraMotion": {
+          "label": "Truck Down + Tilt Up",
+          "group": "truck-down-tilt-up",
+          "groupLabel": "Truck Down + Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m001_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A camel walking around a zoo."
+        }
+      },
+      {
+        "id": "05_m001_c004",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/05_m001_c004/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c004",
+        "cameraRef": "m001",
+        "cameraMotion": {
+          "label": "Truck Down + Tilt Up",
+          "group": "truck-down-tilt-up",
+          "groupLabel": "Truck Down + Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m001_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A boat sailing across the blue sea near the coastline."
+        }
+      },
+      {
+        "id": "06_m001_c019",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/06_m001_c019/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c019",
+        "cameraRef": "m001",
+        "cameraMotion": {
+          "label": "Truck Down + Tilt Up",
+          "group": "truck-down-tilt-up",
+          "groupLabel": "Truck Down + Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m001_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "Piglets taking a walk."
+        }
+      },
+      {
+        "id": "07_m006_c007",
+        "label": "m006",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/07_m006_c007/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c007",
+        "cameraRef": "m006",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m006_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "An aerial view of a city."
+        }
+      },
+      {
+        "id": "08_m006_c012",
+        "label": "m006",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/08_m006_c012/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c012",
+        "cameraRef": "m006",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m006_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A park filled with cherry blossoms."
+        }
+      },
+      {
+        "id": "09_m006_c016",
+        "label": "m006",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/09_m006_c016/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c016",
+        "cameraRef": "m006",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m006_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "An antelope standing on a cliff."
+        }
+      },
+      {
+        "id": "10_m010_c012",
+        "label": "m010",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/10_m010_c012/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c012",
+        "cameraRef": "m010",
+        "cameraMotion": {
+          "label": "Truck Left-Up",
+          "group": "truck-left-up",
+          "groupLabel": "Truck Left-Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m010_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A park filled with cherry blossoms."
+        }
+      },
+      {
+        "id": "11_m010_c014",
+        "label": "m010",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/11_m010_c014/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c014",
+        "cameraRef": "m010",
+        "cameraMotion": {
+          "label": "Truck Left-Up",
+          "group": "truck-left-up",
+          "groupLabel": "Truck Left-Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m010_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "Yachts and villas by the sea."
+        }
+      },
+      {
+        "id": "12_m010_c013",
+        "label": "m010",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/12_m010_c013/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c013",
+        "cameraRef": "m010",
+        "cameraMotion": {
+          "label": "Truck Left-Up",
+          "group": "truck-left-up",
+          "groupLabel": "Truck Left-Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m010_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A coastal road along a cliff overlooking the sea."
+        }
+      },
+      {
+        "id": "13_m009_c010",
+        "label": "m009",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/13_m009_c010/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c010",
+        "cameraRef": "m009",
+        "cameraMotion": {
+          "label": "Truck Left + Dolly In",
+          "group": "truck-left-dolly-in",
+          "groupLabel": "Truck Left + Dolly In"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m009_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "Urban buildings in a city."
+        }
+      },
+      {
+        "id": "14_m009_c015",
+        "label": "m009",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/14_m009_c015/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c015",
+        "cameraRef": "m009",
+        "cameraMotion": {
+          "label": "Truck Left + Dolly In",
+          "group": "truck-left-dolly-in",
+          "groupLabel": "Truck Left + Dolly In"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m009_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A brown bear walking around a zoo."
+        }
+      },
+      {
+        "id": "15_m009_c002",
+        "label": "m009",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/15_m009_c002/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c002",
+        "cameraRef": "m009",
+        "cameraMotion": {
+          "label": "Truck Left + Dolly In",
+          "group": "truck-left-dolly-in",
+          "groupLabel": "Truck Left + Dolly In"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m009_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "Victoria Harbour in Hong Kong."
+        }
+      },
+      {
+        "id": "16_m011_c012",
+        "label": "m011",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/16_m011_c012/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c012",
+        "cameraRef": "m011",
+        "cameraMotion": {
+          "label": "Zoom In",
+          "group": "zoom-in",
+          "groupLabel": "Zoom In"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m011_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A park filled with cherry blossoms."
+        }
+      },
+      {
+        "id": "17_m011_c011",
+        "label": "m011",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/17_m011_c011/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c011",
+        "cameraRef": "m011",
+        "cameraMotion": {
+          "label": "Zoom In",
+          "group": "zoom-in",
+          "groupLabel": "Zoom In"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m011_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A camel walking around a zoo."
+        }
+      },
+      {
+        "id": "18_m011_c010",
+        "label": "m011",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/text/18_m011_c010/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c010",
+        "cameraRef": "m011",
+        "cameraMotion": {
+          "label": "Zoom In",
+          "group": "zoom-in",
+          "groupLabel": "Zoom In"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m011_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "text",
+          "text": "Urban buildings in a city."
+        }
+      }
+    ],
+    "trajectory-i2v": [
+      {
+        "id": "01_m014_c001",
+        "label": "m014",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/01_m014_c001/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "Rally Car",
+        "cameraRef": "m014",
+        "cameraMotion": {
+          "label": "Pan Right",
+          "group": "pan-right",
+          "groupLabel": "Pan Right"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m014_trajectory_motion.png?v=1786634362000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c001.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "02_m002_c001",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/02_m002_c001/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "Rally Car",
+        "cameraRef": "m002",
+        "cameraMotion": {
+          "label": "Zoom Out",
+          "group": "zoom-out",
+          "groupLabel": "Zoom Out"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m002_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c001.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "03_m003_c001",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/03_m003_c001/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "Rally Car",
+        "cameraRef": "m003",
+        "cameraMotion": {
+          "label": "Tilt Up",
+          "group": "tilt-up",
+          "groupLabel": "Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m003_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c001.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "04_m014_c003",
+        "label": "m014",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/04_m014_c003/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "Brown Bear at a Zoo",
+        "cameraRef": "m014",
+        "cameraMotion": {
+          "label": "Pan Right",
+          "group": "pan-right",
+          "groupLabel": "Pan Right"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m014_trajectory_motion.png?v=1786634362000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c003.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "05_m001_c003",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/05_m001_c003/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "Brown Bear at a Zoo",
+        "cameraRef": "m001",
+        "cameraMotion": {
+          "label": "Truck Down + Tilt Up",
+          "group": "truck-down-tilt-up",
+          "groupLabel": "Truck Down + Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m001_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c003.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "06_m003_c003",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/06_m003_c003/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "Brown Bear at a Zoo",
+        "cameraRef": "m003",
+        "cameraMotion": {
+          "label": "Tilt Up",
+          "group": "tilt-up",
+          "groupLabel": "Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m003_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c003.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "07_m002_c005",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/07_m002_c005/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c005",
+        "contentLabel": "Sheep on a Cliff",
+        "cameraRef": "m002",
+        "cameraMotion": {
+          "label": "Zoom Out",
+          "group": "zoom-out",
+          "groupLabel": "Zoom Out"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m002_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c005.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "08_m014_c005",
+        "label": "m014",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/08_m014_c005/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c005",
+        "contentLabel": "Sheep on a Cliff",
+        "cameraRef": "m014",
+        "cameraMotion": {
+          "label": "Pan Right",
+          "group": "pan-right",
+          "groupLabel": "Pan Right"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m014_trajectory_motion.png?v=1786634362000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c005.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "09_m001_c005",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/09_m001_c005/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c005",
+        "contentLabel": "Sheep on a Cliff",
+        "cameraRef": "m001",
+        "cameraMotion": {
+          "label": "Truck Down + Tilt Up",
+          "group": "truck-down-tilt-up",
+          "groupLabel": "Truck Down + Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m001_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c005.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "11_m008_c034",
+        "label": "m008",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/11_m008_c034/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c034",
+        "contentLabel": "German Shepherd",
+        "cameraRef": "m008",
+        "cameraMotion": {
+          "label": "Truck Up + Tilt Down",
+          "group": "truck-up-tilt-down",
+          "groupLabel": "Truck Up + Tilt Down"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m008_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c034.jpg?v=1470216745000000000"
+        }
+      },
+      {
+        "id": "12_m007_c035",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/12_m007_c035/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c035",
+        "contentLabel": "Bus",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Tilt Down",
+          "group": "tilt-down",
+          "groupLabel": "Tilt Down"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m007_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c035.jpg?v=1470216746000000000"
+        }
+      },
+      {
+        "id": "13_m005_c030",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/13_m005_c030/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c030",
+        "contentLabel": "Ducks",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m005_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c030.jpg?v=1470216747000000000"
+        }
+      },
+      {
+        "id": "14_m005_c031",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/14_m005_c031/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c031",
+        "contentLabel": "Hiker",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m005_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c031.jpg?v=1470216746000000000"
+        }
+      },
+      {
+        "id": "15_m005_c032",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/15_m005_c032/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c032",
+        "contentLabel": "Goldfish",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m005_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c032.jpg?v=1487868534000000000"
+        }
+      },
+      {
+        "id": "16_m005_c033",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/16_m005_c033/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c033",
+        "contentLabel": "Golden Retriever",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m005_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c033.jpg?v=1470216746000000000"
+        }
+      },
+      {
+        "id": "17_m005_c034",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/17_m005_c034/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c034",
+        "contentLabel": "German Shepherd",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m005_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c034.jpg?v=1470216745000000000"
+        }
+      },
+      {
+        "id": "18_m006_c016",
+        "label": "m006",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/18_m006_c016/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c016",
+        "contentLabel": "Car Driving Through the Desert",
+        "cameraRef": "m006",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m006_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c016.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "19_m006_c018",
+        "label": "m006",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/19_m006_c018/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c018",
+        "contentLabel": "Temple in the Snowy Mountains",
+        "cameraRef": "m006",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m006_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c018.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "20_m009_c020",
+        "label": "m009",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/20_m009_c020/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c020",
+        "contentLabel": "Tour Boat in a Strait",
+        "cameraRef": "m009",
+        "cameraMotion": {
+          "label": "Truck Left + Dolly In",
+          "group": "truck-left-dolly-in",
+          "groupLabel": "Truck Left + Dolly In"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m009_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c020.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "21_m009_c023",
+        "label": "m009",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/21_m009_c023/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c023",
+        "contentLabel": "Sea-Crossing Bridge",
+        "cameraRef": "m009",
+        "cameraMotion": {
+          "label": "Truck Left + Dolly In",
+          "group": "truck-left-dolly-in",
+          "groupLabel": "Truck Left + Dolly In"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m009_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c023.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "22_m013_c026",
+        "label": "m013",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/22_m013_c026/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c026",
+        "contentLabel": "Seaside Cliffs",
+        "cameraRef": "m013",
+        "cameraMotion": {
+          "label": "Truck Right-Up",
+          "group": "truck-right-up",
+          "groupLabel": "Truck Right-Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m013_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c026.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "23_m013_c027",
+        "label": "m013",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/image/23_m013_c027/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c027",
+        "contentLabel": "Seaside Buildings",
+        "cameraRef": "m013",
+        "cameraMotion": {
+          "label": "Truck Right-Up",
+          "group": "truck-right-up",
+          "groupLabel": "Truck Right-Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m013_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c027.png?v=1786552826000000000"
+        }
+      }
+    ],
+    "trajectory-v2v": [
+      {
+        "id": "01_m001_c001",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/01_m001_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m001",
+        "cameraMotion": {
+          "label": "Truck Down + Tilt Up",
+          "group": "truck-down-tilt-up",
+          "groupLabel": "Truck Down + Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m001_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "02_m002_c001",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/02_m002_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m002",
+        "cameraMotion": {
+          "label": "Zoom Out",
+          "group": "zoom-out",
+          "groupLabel": "Zoom Out"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m002_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "03_m003_c001",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/03_m003_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m003",
+        "cameraMotion": {
+          "label": "Tilt Up",
+          "group": "tilt-up",
+          "groupLabel": "Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m003_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "04_m004_c001",
+        "label": "m004",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/04_m004_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m004",
+        "cameraMotion": {
+          "label": "Triangular Trajectory",
+          "group": "triangular-trajectory",
+          "groupLabel": "Triangular Trajectory"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m004_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "05_m005_c002",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/05_m005_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m005_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "06_m006_c002",
+        "label": "m006",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/06_m006_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m006",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m006_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "07_m007_c002",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/07_m007_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Tilt Down",
+          "group": "tilt-down",
+          "groupLabel": "Tilt Down"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m007_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "08_m008_c002",
+        "label": "m008",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/08_m008_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m008",
+        "cameraMotion": {
+          "label": "Truck Up + Tilt Down",
+          "group": "truck-up-tilt-down",
+          "groupLabel": "Truck Up + Tilt Down"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m008_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "09_m001_c002",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/09_m001_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m001",
+        "cameraMotion": {
+          "label": "Truck Down + Tilt Up",
+          "group": "truck-down-tilt-up",
+          "groupLabel": "Truck Down + Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m001_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "10_m009_c002",
+        "label": "m009",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/10_m009_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m009",
+        "cameraMotion": {
+          "label": "Truck Left + Dolly In",
+          "group": "truck-left-dolly-in",
+          "groupLabel": "Truck Left + Dolly In"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m009_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "11_m008_c003",
+        "label": "m008",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/11_m008_c003/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "The Great Gatsby",
+        "cameraRef": "m008",
+        "cameraMotion": {
+          "label": "Truck Up + Tilt Down",
+          "group": "truck-up-tilt-down",
+          "groupLabel": "Truck Up + Tilt Down"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m008_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c003.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "12_m008_c004",
+        "label": "m008",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/12_m008_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m008",
+        "cameraMotion": {
+          "label": "Truck Up + Tilt Down",
+          "group": "truck-up-tilt-down",
+          "groupLabel": "Truck Up + Tilt Down"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m008_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "13_m008_c005",
+        "label": "m008",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/13_m008_c005/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c005",
+        "contentLabel": "Martial Arts",
+        "cameraRef": "m008",
+        "cameraMotion": {
+          "label": "Truck Up + Tilt Down",
+          "group": "truck-up-tilt-down",
+          "groupLabel": "Truck Up + Tilt Down"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m008_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c005.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "14_m004_c006",
+        "label": "m004",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/14_m004_c006/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c006",
+        "contentLabel": "Car Racing Through a Canyon",
+        "cameraRef": "m004",
+        "cameraMotion": {
+          "label": "Triangular Trajectory",
+          "group": "triangular-trajectory",
+          "groupLabel": "Triangular Trajectory"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m004_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c006.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "15_m004_c007",
+        "label": "m004",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/15_m004_c007/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c007",
+        "contentLabel": "Gunfight",
+        "cameraRef": "m004",
+        "cameraMotion": {
+          "label": "Triangular Trajectory",
+          "group": "triangular-trajectory",
+          "groupLabel": "Triangular Trajectory"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m004_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c007.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "16_m003_c008",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/16_m003_c008/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c008",
+        "contentLabel": "Concert",
+        "cameraRef": "m003",
+        "cameraMotion": {
+          "label": "Tilt Up",
+          "group": "tilt-up",
+          "groupLabel": "Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m003_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c008.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "17_m003_c009",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/17_m003_c009/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c009",
+        "contentLabel": "Spider-Man",
+        "cameraRef": "m003",
+        "cameraMotion": {
+          "label": "Tilt Up",
+          "group": "tilt-up",
+          "groupLabel": "Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m003_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c009.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "18_m003_c002",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/18_m003_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m003",
+        "cameraMotion": {
+          "label": "Tilt Up",
+          "group": "tilt-up",
+          "groupLabel": "Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m003_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "19_m012_c003",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/19_m012_c003/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "The Great Gatsby",
+        "cameraRef": "m012",
+        "cameraMotion": {
+          "label": "Orbit Left",
+          "group": "orbit-left",
+          "groupLabel": "Orbit Left"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m012_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c003.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "20_m012_c005",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/20_m012_c005/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c005",
+        "contentLabel": "Martial Arts",
+        "cameraRef": "m012",
+        "cameraMotion": {
+          "label": "Orbit Left",
+          "group": "orbit-left",
+          "groupLabel": "Orbit Left"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m012_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c005.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "21_m012_c004",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/21_m012_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m012",
+        "cameraMotion": {
+          "label": "Orbit Left",
+          "group": "orbit-left",
+          "groupLabel": "Orbit Left"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m012_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "22_m001_c005",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/22_m001_c005/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c005",
+        "contentLabel": "Martial Arts",
+        "cameraRef": "m001",
+        "cameraMotion": {
+          "label": "Truck Down + Tilt Up",
+          "group": "truck-down-tilt-up",
+          "groupLabel": "Truck Down + Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m001_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c005.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "23_m001_c012",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/23_m001_c012/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c012",
+        "contentLabel": "Airplane Landing on a Rooftop",
+        "cameraRef": "m001",
+        "cameraMotion": {
+          "label": "Truck Down + Tilt Up",
+          "group": "truck-down-tilt-up",
+          "groupLabel": "Truck Down + Tilt Up"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m001_trajectory_motion.png?v=1786552825000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c012.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "24_m002_c003",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/24_m002_c003/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "The Great Gatsby",
+        "cameraRef": "m002",
+        "cameraMotion": {
+          "label": "Zoom Out",
+          "group": "zoom-out",
+          "groupLabel": "Zoom Out"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m002_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c003.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "25_m002_c002",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/trajectory/video/25_m002_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m002",
+        "cameraMotion": {
+          "label": "Zoom Out",
+          "group": "zoom-out",
+          "groupLabel": "Zoom Out"
+        },
+        "camera": {
+          "kind": "image",
+          "src": "video/cameras/trajectory/m002_trajectory_motion.png?v=1786552826000000000"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      }
+    ],
+    "reference-t2v": [
+      {
+        "id": "01_m007_c001",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/text/01_m007_c001/result.mp4?v=1786552827000000000"
+        },
+        "contentRef": "c001",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A frozen riverbed at sunset in winter."
+        }
+      },
+      {
+        "id": "02_m005_c008",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/text/02_m005_c008/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c008",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m005_reference_motion.mp4?v=1787993990783678890"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A seaside beach at sunset."
+        }
+      },
+      {
+        "id": "03_m007_c008",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/text/03_m007_c008/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c008",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A seaside beach at sunset."
+        }
+      },
+      {
+        "id": "04_m003_c004",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/text/04_m003_c004/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c004",
+        "cameraRef": "m003",
+        "cameraMotion": {
+          "label": "Tilt Up",
+          "group": "tilt-up",
+          "groupLabel": "Tilt Up"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m003_reference_motion.mp4?v=1787993992934923801"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A boat sailing across the blue sea near the coastline."
+        }
+      },
+      {
+        "id": "05_m007_c004",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/text/05_m007_c004/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c004",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A boat sailing across the blue sea near the coastline."
+        }
+      },
+      {
+        "id": "07_m005_c009",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/text/07_m005_c009/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c009",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m005_reference_motion.mp4?v=1787993990783678890"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A surfer standing by the sea."
+        }
+      },
+      {
+        "id": "09_m005_c005",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/text/09_m005_c005/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c005",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m005_reference_motion.mp4?v=1787993990783678890"
+        },
+        "content": {
+          "kind": "text",
+          "text": "An agricultural combine harvester harvesting crops."
+        }
+      },
+      {
+        "id": "10_m012_c006",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/text/10_m012_c006/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c006",
+        "cameraRef": "m012",
+        "cameraMotion": {
+          "label": "Pan Right",
+          "group": "pan-right",
+          "groupLabel": "Pan Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m012_reference_motion.mp4?v=1787993989954832321"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A castle by the coast."
+        }
+      },
+      {
+        "id": "11_m012_c004",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/text/11_m012_c004/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c004",
+        "cameraRef": "m012",
+        "cameraMotion": {
+          "label": "Pan Right",
+          "group": "pan-right",
+          "groupLabel": "Pan Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m012_reference_motion.mp4?v=1787993989954832321"
+        },
+        "content": {
+          "kind": "text",
+          "text": "A boat sailing across the blue sea near the coastline."
+        }
+      },
+      {
+        "id": "12_m012_c003",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/text/12_m012_c003/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c003",
+        "cameraRef": "m012",
+        "cameraMotion": {
+          "label": "Pan Right",
+          "group": "pan-right",
+          "groupLabel": "Pan Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m012_reference_motion.mp4?v=1787993989954832321"
+        },
+        "content": {
+          "kind": "text",
+          "text": "Arctic glaciers floating in the ocean."
+        }
+      },
+      {
+        "id": "13_m007_c007",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/text/13_m007_c007/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c007",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "text",
+          "text": "An aerial view of a city."
+        }
+      },
+      {
+        "id": "14_m007_c002",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/text/14_m007_c002/result.mp4?v=1786552827000000000"
+        },
+        "contentRef": "c002",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "text",
+          "text": "Victoria Harbour in Hong Kong."
+        }
+      }
+    ],
+    "reference-i2v": [
+      {
+        "id": "01_m012_c032",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/01_m012_c032/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c032",
+        "contentLabel": "Goldfish",
+        "cameraRef": "m012",
+        "cameraMotion": {
+          "label": "Pan Right",
+          "group": "pan-right",
+          "groupLabel": "Pan Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m012_reference_motion.mp4?v=1787993989954832321"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c032.jpg?v=1487868534000000000"
+        }
+      },
+      {
+        "id": "02_m012_c033",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/02_m012_c033/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c033",
+        "contentLabel": "Golden Retriever",
+        "cameraRef": "m012",
+        "cameraMotion": {
+          "label": "Pan Right",
+          "group": "pan-right",
+          "groupLabel": "Pan Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m012_reference_motion.mp4?v=1787993989954832321"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c033.jpg?v=1470216746000000000"
+        }
+      },
+      {
+        "id": "04_m009_c036",
+        "label": "m009",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/04_m009_c036/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c036",
+        "contentLabel": "Motorcyclist on the Road",
+        "cameraRef": "m009",
+        "cameraMotion": {
+          "label": "Zoom In",
+          "group": "zoom-in",
+          "groupLabel": "Zoom In"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m009_reference_motion.mp4?v=1787993991330854500"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c036.jpg?v=1470216748000000000"
+        }
+      },
+      {
+        "id": "05_m009_c035",
+        "label": "m009",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/05_m009_c035/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c035",
+        "contentLabel": "Bus",
+        "cameraRef": "m009",
+        "cameraMotion": {
+          "label": "Zoom In",
+          "group": "zoom-in",
+          "groupLabel": "Zoom In"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m009_reference_motion.mp4?v=1787993991330854500"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c035.jpg?v=1470216746000000000"
+        }
+      },
+      {
+        "id": "06_m009_c025",
+        "label": "m009",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/06_m009_c025/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c025",
+        "contentLabel": "Car Race",
+        "cameraRef": "m009",
+        "cameraMotion": {
+          "label": "Zoom In",
+          "group": "zoom-in",
+          "groupLabel": "Zoom In"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m009_reference_motion.mp4?v=1787993991330854500"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c025.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "07_m035_c003",
+        "label": "m035",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/07_m035_c003/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "Brown Bear at a Zoo",
+        "cameraRef": "m035",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m035_reference_motion.mp4?v=1787993996333213834"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c003.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "08_m035_c037",
+        "label": "m035",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/08_m035_c037/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c037",
+        "contentLabel": "Jeep on a Country Road",
+        "cameraRef": "m035",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m035_reference_motion.mp4?v=1787993996333213834"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c037.jpg?v=1470216749000000000"
+        }
+      },
+      {
+        "id": "09_m035_c002",
+        "label": "m035",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/09_m035_c002/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Little Girl Holding a Kitten",
+        "cameraRef": "m035",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m035_reference_motion.mp4?v=1787993996333213834"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c002.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "10_m007_c003",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/10_m007_c003/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "Brown Bear at a Zoo",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c003.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "11_m007_c039",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/11_m007_c039/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c039",
+        "contentLabel": "Equestrian Rider at a Racetrack",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c039.jpg?v=1470216746000000000"
+        }
+      },
+      {
+        "id": "12_m007_c007",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/12_m007_c007/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c007",
+        "contentLabel": "Golden Retriever",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c007.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "13_m035_c002",
+        "label": "m035",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/13_m035_c002/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Little Girl Holding a Kitten",
+        "cameraRef": "m035",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m035_reference_motion.mp4?v=1787993996333213834"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c002.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "14_m005_c031",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/14_m005_c031/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c031",
+        "contentLabel": "Hiker",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m005_reference_motion.mp4?v=1787993990783678890"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c031.jpg?v=1470216746000000000"
+        }
+      },
+      {
+        "id": "15_m005_c003",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/15_m005_c003/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "Brown Bear at a Zoo",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m005_reference_motion.mp4?v=1787993990783678890"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c003.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "16_m035_c038",
+        "label": "m035",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/16_m035_c038/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c038",
+        "contentLabel": "Paraglider",
+        "cameraRef": "m035",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m035_reference_motion.mp4?v=1787993996333213834"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c038.jpg?v=1470216748000000000"
+        }
+      },
+      {
+        "id": "17_m035_c030",
+        "label": "m035",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/17_m035_c030/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c030",
+        "contentLabel": "Ducks",
+        "cameraRef": "m035",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m035_reference_motion.mp4?v=1787993996333213834"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c030.jpg?v=1470216747000000000"
+        }
+      },
+      {
+        "id": "18_m002_c017",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/18_m002_c017/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c017",
+        "contentLabel": "Grassland",
+        "cameraRef": "m002",
+        "cameraMotion": {
+          "label": "Orbit Left",
+          "group": "orbit-left",
+          "groupLabel": "Orbit Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m002_reference_motion.mp4?v=1787993993423562573"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c017.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "19_m002_c018",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/19_m002_c018/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c018",
+        "contentLabel": "Temple in the Snowy Mountains",
+        "cameraRef": "m002",
+        "cameraMotion": {
+          "label": "Orbit Left",
+          "group": "orbit-left",
+          "groupLabel": "Orbit Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m002_reference_motion.mp4?v=1787993993423562573"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c018.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "20_m035_c021",
+        "label": "m035",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/20_m035_c021/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c021",
+        "contentLabel": "Urban Rail Train",
+        "cameraRef": "m035",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m035_reference_motion.mp4?v=1787993996333213834"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c021.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "21_m035_c024",
+        "label": "m035",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/21_m035_c024/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c024",
+        "contentLabel": "Urban Sea-Crossing Bridge",
+        "cameraRef": "m035",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m035_reference_motion.mp4?v=1787993996333213834"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c024.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "22_m005_c002",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/22_m005_c002/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Little Girl Holding a Kitten",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m005_reference_motion.mp4?v=1787993990783678890"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c002.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "23_m005_c031",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/23_m005_c031/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c031",
+        "contentLabel": "Hiker",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m005_reference_motion.mp4?v=1787993990783678890"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c031.jpg?v=1470216746000000000"
+        }
+      },
+      {
+        "id": "24_m007_c039",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/24_m007_c039/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c039",
+        "contentLabel": "Equestrian Rider at a Racetrack",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c039.jpg?v=1470216746000000000"
+        }
+      },
+      {
+        "id": "24_m035_c045",
+        "label": "m035",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/24_m035_c045/result.mp4?v=1786898056000000000"
+        },
+        "contentRef": "c045",
+        "contentLabel": "Black Swan",
+        "cameraRef": "m035",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m035_reference_motion.mp4?v=1787993996333213834"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c045.jpg?v=1470216749000000000"
+        }
+      },
+      {
+        "id": "25_m012_c033",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/25_m012_c033/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c033",
+        "contentLabel": "Golden Retriever",
+        "cameraRef": "m012",
+        "cameraMotion": {
+          "label": "Pan Right",
+          "group": "pan-right",
+          "groupLabel": "Pan Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m012_reference_motion.mp4?v=1787993989954832321"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c033.jpg?v=1470216746000000000"
+        }
+      },
+      {
+        "id": "26_m035_c021",
+        "label": "m035",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/26_m035_c021/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c021",
+        "contentLabel": "Urban Rail Train",
+        "cameraRef": "m035",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m035_reference_motion.mp4?v=1787993996333213834"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c021.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "27_m002_c017",
+        "label": "m002",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/27_m002_c017/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c017",
+        "contentLabel": "Grassland",
+        "cameraRef": "m002",
+        "cameraMotion": {
+          "label": "Orbit Left",
+          "group": "orbit-left",
+          "groupLabel": "Orbit Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m002_reference_motion.mp4?v=1787993993423562573"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c017.png?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "28_m035_c038",
+        "label": "m035",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/image/28_m035_c038/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c038",
+        "contentLabel": "Paraglider",
+        "cameraRef": "m035",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m035_reference_motion.mp4?v=1787993996333213834"
+        },
+        "content": {
+          "kind": "image",
+          "src": "video/contents/image/c038.jpg?v=1470216748000000000"
+        }
+      }
+    ],
+    "reference-v2v": [
+      {
+        "id": "01_m001_c001",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/01_m001_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m001",
+        "cameraMotion": {
+          "label": "Truck Right",
+          "group": "truck-right",
+          "groupLabel": "Truck Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m001_reference_motion.mp4?v=1787993989160970115"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "02_m003_c001",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/02_m003_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m003",
+        "cameraMotion": {
+          "label": "Tilt Up",
+          "group": "tilt-up",
+          "groupLabel": "Tilt Up"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m003_reference_motion.mp4?v=1787993992934923801"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "03_m005_c001",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/03_m005_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m005_reference_motion.mp4?v=1787993990783678890"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "04_m008_c001",
+        "label": "m008",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/04_m008_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m008",
+        "cameraMotion": {
+          "label": "Truck Left",
+          "group": "truck-left",
+          "groupLabel": "Truck Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m008_reference_motion.mp4?v=1787993995126179364"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "05_m007_c001",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/05_m007_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "06_m009_c001",
+        "label": "m009",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/06_m009_c001/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c001",
+        "contentLabel": "The Matrix",
+        "cameraRef": "m009",
+        "cameraMotion": {
+          "label": "Zoom In",
+          "group": "zoom-in",
+          "groupLabel": "Zoom In"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m009_reference_motion.mp4?v=1787993991330854500"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c001.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "07_m003_c002",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/07_m003_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m003",
+        "cameraMotion": {
+          "label": "Tilt Up",
+          "group": "tilt-up",
+          "groupLabel": "Tilt Up"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m003_reference_motion.mp4?v=1787993992934923801"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "08_m009_c002",
+        "label": "m009",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/08_m009_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m009",
+        "cameraMotion": {
+          "label": "Zoom In",
+          "group": "zoom-in",
+          "groupLabel": "Zoom In"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m009_reference_motion.mp4?v=1787993991330854500"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "09_m012_c002",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/09_m012_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m012",
+        "cameraMotion": {
+          "label": "Pan Right",
+          "group": "pan-right",
+          "groupLabel": "Pan Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m012_reference_motion.mp4?v=1787993989954832321"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "10_m035_c002",
+        "label": "m035",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/10_m035_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m035",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m035_reference_motion.mp4?v=1787993996333213834"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "11_m007_c002",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/11_m007_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "12_m005_c002",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/12_m005_c002/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c002",
+        "contentLabel": "Michael Jackson",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m005_reference_motion.mp4?v=1787993990783678890"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c002.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "13_m012_c004",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/13_m012_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m012",
+        "cameraMotion": {
+          "label": "Pan Right",
+          "group": "pan-right",
+          "groupLabel": "Pan Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m012_reference_motion.mp4?v=1787993989954832321"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "14_m003_c004",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/14_m003_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m003",
+        "cameraMotion": {
+          "label": "Tilt Up",
+          "group": "tilt-up",
+          "groupLabel": "Tilt Up"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m003_reference_motion.mp4?v=1787993992934923801"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "15_m007_c004",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/15_m007_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "16_m009_c004",
+        "label": "m009",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/16_m009_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m009",
+        "cameraMotion": {
+          "label": "Zoom In",
+          "group": "zoom-in",
+          "groupLabel": "Zoom In"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m009_reference_motion.mp4?v=1787993991330854500"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "17_m005_c004",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/17_m005_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m005_reference_motion.mp4?v=1787993990783678890"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "18_m031_c004",
+        "label": "m031",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/18_m031_c004/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m031",
+        "cameraMotion": {
+          "label": "Tilt Down",
+          "group": "tilt-down",
+          "groupLabel": "Tilt Down"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m031_reference_motion.mp4?v=1787993991786119049"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "19_m005_c005",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/19_m005_c005/result.mp4?v=1786552825000000000"
+        },
+        "contentRef": "c005",
+        "contentLabel": "Martial Arts",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m005_reference_motion.mp4?v=1787993990783678890"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c005.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "20_m005_c009",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/20_m005_c009/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c009",
+        "contentLabel": "Spider-Man",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m005_reference_motion.mp4?v=1787993990783678890"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c009.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "21_m005_c007",
+        "label": "m005",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/21_m005_c007/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c007",
+        "contentLabel": "Gunfight",
+        "cameraRef": "m005",
+        "cameraMotion": {
+          "label": "Pan Left",
+          "group": "pan-left",
+          "groupLabel": "Pan Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m005_reference_motion.mp4?v=1787993990783678890"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c007.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "22_m001_c017",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/22_m001_c017/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c017",
+        "contentLabel": "Iron Man",
+        "cameraRef": "m001",
+        "cameraMotion": {
+          "label": "Truck Right",
+          "group": "truck-right",
+          "groupLabel": "Truck Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m001_reference_motion.mp4?v=1787993989160970115"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c017.mp4?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "23_m012_c003",
+        "label": "m012",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/23_m012_c003/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "The Great Gatsby",
+        "cameraRef": "m012",
+        "cameraMotion": {
+          "label": "Pan Right",
+          "group": "pan-right",
+          "groupLabel": "Pan Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m012_reference_motion.mp4?v=1787993989954832321"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c003.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "24_m001_c004",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/24_m001_c004/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c004",
+        "contentLabel": "Joker",
+        "cameraRef": "m001",
+        "cameraMotion": {
+          "label": "Truck Right",
+          "group": "truck-right",
+          "groupLabel": "Truck Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m001_reference_motion.mp4?v=1787993989160970115"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c004.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "25_m007_c003",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/25_m007_c003/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "The Great Gatsby",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c003.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "26_m007_c012",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/26_m007_c012/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c012",
+        "contentLabel": "Airplane Landing on a Rooftop",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c012.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "27_m007_c018",
+        "label": "m007",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/27_m007_c018/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c018",
+        "contentLabel": "Spider-Man",
+        "cameraRef": "m007",
+        "cameraMotion": {
+          "label": "Dolly Out",
+          "group": "dolly-out",
+          "groupLabel": "Dolly Out"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m007_reference_motion.mp4?v=1787993994621234036"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c018.mp4?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "28_m003_c018",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/28_m003_c018/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c018",
+        "contentLabel": "Spider-Man",
+        "cameraRef": "m003",
+        "cameraMotion": {
+          "label": "Tilt Up",
+          "group": "tilt-up",
+          "groupLabel": "Tilt Up"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m003_reference_motion.mp4?v=1787993992934923801"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c018.mp4?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "29_m003_c005",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/29_m003_c005/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c005",
+        "contentLabel": "Martial Arts",
+        "cameraRef": "m003",
+        "cameraMotion": {
+          "label": "Tilt Up",
+          "group": "tilt-up",
+          "groupLabel": "Tilt Up"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m003_reference_motion.mp4?v=1787993992934923801"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c005.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "30_m003_c017",
+        "label": "m003",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/30_m003_c017/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c017",
+        "contentLabel": "Iron Man",
+        "cameraRef": "m003",
+        "cameraMotion": {
+          "label": "Tilt Up",
+          "group": "tilt-up",
+          "groupLabel": "Tilt Up"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m003_reference_motion.mp4?v=1787993992934923801"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c017.mp4?v=1786552826000000000"
+        }
+      },
+      {
+        "id": "31_m008_c007",
+        "label": "m008",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/31_m008_c007/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c007",
+        "contentLabel": "Gunfight",
+        "cameraRef": "m008",
+        "cameraMotion": {
+          "label": "Truck Left",
+          "group": "truck-left",
+          "groupLabel": "Truck Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m008_reference_motion.mp4?v=1787993995126179364"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c007.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "32_m008_c003",
+        "label": "m008",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/32_m008_c003/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "The Great Gatsby",
+        "cameraRef": "m008",
+        "cameraMotion": {
+          "label": "Truck Left",
+          "group": "truck-left",
+          "groupLabel": "Truck Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m008_reference_motion.mp4?v=1787993995126179364"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c003.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "33_m008_c008",
+        "label": "m008",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/33_m008_c008/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c008",
+        "contentLabel": "Concert",
+        "cameraRef": "m008",
+        "cameraMotion": {
+          "label": "Truck Left",
+          "group": "truck-left",
+          "groupLabel": "Truck Left"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m008_reference_motion.mp4?v=1787993995126179364"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c008.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "34_m035_c008",
+        "label": "m035",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/34_m035_c008/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c008",
+        "contentLabel": "Concert",
+        "cameraRef": "m035",
+        "cameraMotion": {
+          "label": "Orbit Right",
+          "group": "orbit-right",
+          "groupLabel": "Orbit Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m035_reference_motion.mp4?v=1787993996333213834"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c008.mp4?v=1786552825000000000"
+        }
+      },
+      {
+        "id": "35_m001_c003",
+        "label": "m001",
+        "output": {
+          "kind": "video",
+          "src": "video/demos/reference/video/35_m001_c003/result.mp4?v=1786552826000000000"
+        },
+        "contentRef": "c003",
+        "contentLabel": "The Great Gatsby",
+        "cameraRef": "m001",
+        "cameraMotion": {
+          "label": "Truck Right",
+          "group": "truck-right",
+          "groupLabel": "Truck Right"
+        },
+        "camera": {
+          "kind": "video",
+          "src": "video/cameras/reference/m001_reference_motion.mp4?v=1787993989160970115"
+        },
+        "content": {
+          "kind": "video",
+          "src": "video/contents/video/c003.mp4?v=1786552825000000000"
+        }
+      }
+    ]
+  }
+}
