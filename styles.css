@@ -76,6 +76,8 @@ img, video { max-width: 100%; }
 .button-primary:hover { background: #a1f9eb; }
 .button-ghost { background: rgba(255,255,255,.035); }
 .button-small { min-height: 39px; padding-inline: 16px; font-size: .82rem; }
+.button-disabled { opacity: .66; cursor: not-allowed; pointer-events: none; }
+.button-disabled > span { color: var(--warm); font-size: .66rem; font-weight: 760; letter-spacing: .06em; text-transform: uppercase; }
 
 .hero { position: relative; padding: 104px 0 70px; text-align: center; }
 .hero-glow { position: absolute; z-index: -1; width: min(650px, 100vw); height: 380px; top: 40px; left: 50%; transform: translateX(-50%); border-radius: 50%; background: rgba(76, 242, 216, .12); filter: blur(90px); }
