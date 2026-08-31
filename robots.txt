@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yukun66.github.io/omnicamera-webdemo/sitemap.xml
